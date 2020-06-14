@@ -42,8 +42,8 @@ public class Main {
         System.out.println(((14 / 2 + 3) * 0.8509035245341184 + 2) - Math.pow(Math.sqrt(25), 3));
         System.out.println(((7 + 3) * 0.8509035245341184 + 2) - Math.pow(5, 3));
         System.out.println((10 * 0.8509035245341184 + 2) - 125);
-        System.out.println((8 + 2) - 125);
-        System.out.println(10-125);
-        System.out.println(-115);
+        System.out.println((8.509035245341184 + 2) - 125);
+        System.out.println(10.509035245341184-125);
+        System.out.println(-114.49096475465882);
     }
 }
